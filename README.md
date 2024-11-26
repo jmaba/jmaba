@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jmaba
+- 👋 Hi, I’m AdrianB
 - 👀 I’m interested in C#, Azure, Image processing, Image inpainting, Image forgery detection
 - 🌱 I’m currently learning Python, Keras, Tensorflow, etc.
 - 💞️ I’m looking to collaborate on Image inpainting and image inpainting detection projects
